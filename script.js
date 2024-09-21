@@ -11,7 +11,7 @@ const questions = [
   {
     question: "Which is the smallest continent in the world?",
     answers: [
-      { text: "Asis", correct: false },
+      { text: "Asia", correct: false },
       { text: "Australia", correct: true },
       { text: "Arctic", correct: false },
       { text: "Africa", correct: false },
@@ -32,7 +32,7 @@ const questions = [
       { text: "Vatican City", correct: true },
       { text: "Bhutan", correct: false },
       { text: "Nepal", correct: false },
-      { text: "Shri Lanka", correct: false },
+      { text: "Sri Lanka", correct: false },
     ],
   },
 ];
